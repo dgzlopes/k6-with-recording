@@ -1,6 +1,6 @@
 # k6-with-recording
 
-> ⚠️ This is an unofficial build of an unmerged, experimental feature. Not affiliated with or supported by Grafana Labs.
+> ⚠️ This is an unofficial build of an unmerged, experimental feature. Not supported by Grafana Labs.
 
 A custom build of [k6](https://github.com/grafana/k6) that includes **browser video recording**, from [grafana/k6#6020](https://github.com/grafana/k6/pull/6020).
 
